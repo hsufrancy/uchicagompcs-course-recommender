@@ -46,7 +46,7 @@ if st.button("Recommend 5 Courses"):
         display_data = []
         for field, value in display_row.items():
             formatted_field = string.capwords(field.replace('_', ' '))
-            formatted_value = value.strip()
+            formatted_value = str(value).strip()
             display_data.append([formatted_field, formatted_value])
 
         # Render clean 7×2 table without index or headers
