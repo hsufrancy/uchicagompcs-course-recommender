@@ -1,5 +1,3 @@
-![UChicago Banner](./assets/uchicago_banner)
-
 # 📚 UChicago CS Department Course Recommender
 
 This is a content-based NLP recommendation system for graduate-level courses in the [University of Chicago MPCS Program](https://mpcs-courses.cs.uchicago.edu/). The goal is to help students discover relevant courses based on course descriptions using deep learning and NLP techniques.
