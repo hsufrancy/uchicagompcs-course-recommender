@@ -2,10 +2,13 @@
 
 This is a content-based NLP recommendation system for graduate-level courses in the [University of Chicago MPCS Program](https://mpcs-courses.cs.uchicago.edu/). The goal is to help students discover relevant courses based on course descriptions using deep learning and NLP techniques.
 
+
+
 Wedsite: [Link](https://uchicagompcs-course-recommender.streamlit.app)
 
 Demo Video: [Link](https://drive.google.com/file/d/1Z4h_SYRyn4K7OF6r8RKA9ASAbQq-yNpf/view?usp=sharing)
 
+![Recommended Courses](./assets/recommended-courses.png)
 ---
 
 ## 🧠 Project Workflow Overview
