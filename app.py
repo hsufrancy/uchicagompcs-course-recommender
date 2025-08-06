@@ -6,7 +6,7 @@ import string
 
 # Load data
 metadata = pd.read_csv('./data/course_preprocessed.csv')
-embeddings = np.load('./data/course_embeddings.npy')
+embeddings = np.load('./data/embeddings_e5.npy')
 
 # Title
 st.set_page_config(page_title="UChicago Course Recommender", layout="wide")
